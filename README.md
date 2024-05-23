@@ -1,4 +1,4 @@
-# Final-Project
+# Industrial Anomaly Detection
 
 
 The Industrial Anomaly Detection Project is a pivotal initiative aimed at predicting and preventing boiler failures in an industrial setting through the implementation of a machine learning-based predictive model. This project leverages historical boiler operation data, including temperature readings, operational timestamps, and boiler type identifiers, to train and validate several predictive models. The goal is to enhance safety, minimize downtime, and optimize maintenance scheduling by accurately forecasting potential failures before they occur.
